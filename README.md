@@ -1,5 +1,5 @@
 # Expert-notes
-<img src="https://i.imgur.com/OdWfRbM.png" width="100%">
+<a href="https://ibb.co/Nd2xzwFP"><img src="https://i.ibb.co/8LgMVFmp/cover.png" alt="cover" border="0"></a>
 
 # ReactJS <img height="23em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
